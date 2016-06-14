@@ -1,0 +1,6 @@
+c:\users\patrick\documents\visual studio 2015\Projects\easy1\easy1\bin\Debug\easy1.exe.config
+c:\users\patrick\documents\visual studio 2015\Projects\easy1\easy1\bin\Debug\easy1.exe
+c:\users\patrick\documents\visual studio 2015\Projects\easy1\easy1\bin\Debug\easy1.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\easy1\easy1\obj\Debug\easy1.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2015\Projects\easy1\easy1\obj\Debug\easy1.exe
+c:\users\patrick\documents\visual studio 2015\Projects\easy1\easy1\obj\Debug\easy1.pdb
